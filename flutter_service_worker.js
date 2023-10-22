@@ -17,7 +17,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "68c1544a085fdc4326321da814da4841
 "assets/assets/images/WhatsApp%2520Image%25202023-10-04%2520at%25202.52.02%2520PM.jpeg": "47188ad9359c296e692a2ace870aa55c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "aeb987b45828d19a5aaa2c70f2cbf28e",
-"assets/NOTICES": "5e990ee1e9db64d4c4e20909fb4eb63c",
+"assets/NOTICES": "058188001550f6de10a67dc15f887af2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
@@ -39,11 +39,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "68c1544a085fdc4326321da814da4841
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cc8d608eb5f314a074b1188152610219",
-"/": "cc8d608eb5f314a074b1188152610219",
-"main.dart.js": "98e887f06dc048cb964f1e79cbb32200",
-"manifest.json": "d4123bd069feb6e705a2d39ea1826ca8",
-"version.json": "534be9b5f4fe0cf1a6f58151d49486b6"};
+"index.html": "52abad550e6f496951c7684731d683ce",
+"/": "52abad550e6f496951c7684731d683ce",
+"main.dart.js": "e1b0da619d87d199420eca947c30f6d9",
+"manifest.json": "a35282dca1b093a13a6d35befd5ddeae",
+"version.json": "a08e0b5f591c3076b795c602ad21832a"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
