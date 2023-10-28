@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ecce0a3f91611d1ac109a03911c6f3e0",
-"assets/AssetManifest.json": "9135a391affd847f73d5bcc3864d1c8e",
+const RESOURCES = {"assets/AssetManifest.bin": "9c3eda0f94f01e38d835cd9c061598f6",
+"assets/AssetManifest.json": "f954d9b36b1b4e71dcaa4745a7d565aa",
 "assets/assets/images/ai.png": "194ba179300300c34abf000c3769d060",
 "assets/assets/images/app%2520logo.png": "ae622f60f67f5adb194a37f673743679",
 "assets/assets/images/avarage%2520rides.png": "e01fddfd368437810075740bef39eecc",
@@ -18,7 +18,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ecce0a3f91611d1ac109a03911c6f3e0
 "assets/assets/images/rides.png": "437a5697445211d3ec06f008cf7ff53d",
 "assets/assets/images/WhatsApp%2520Image%25202023-10-04%2520at%25202.52.02%2520PM.jpeg": "47188ad9359c296e692a2ace870aa55c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1d847e7a7c478ed2ca83460accc268e8",
+"assets/fonts/MaterialIcons-Regular.otf": "752c82e7aa8492ed6d8ae38684650e82",
 "assets/NOTICES": "70055e4973673f68adf71b6b4e601d63",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
@@ -37,9 +37,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "ecce0a3f91611d1ac109a03911c6f3e0
 "icons/Icon-512.png": "b65bb72e543cd42768fdebe3312ccdb3",
 "icons/Icon-maskable-192.png": "240281d396534ec95d8b7caee5e95417",
 "icons/Icon-maskable-512.png": "b65bb72e543cd42768fdebe3312ccdb3",
-"index.html": "f10cc8c3ba5ad8aa8de49d3a2f2fed8b",
-"/": "f10cc8c3ba5ad8aa8de49d3a2f2fed8b",
-"main.dart.js": "0984ff7f597720eccfcdbb1289306b51",
+"index.html": "da9b7e9acaafc471552e93d6b08a1bc0",
+"/": "da9b7e9acaafc471552e93d6b08a1bc0",
+"main.dart.js": "dc87c3cbb352dc92eee1510fbd41711a",
 "manifest.json": "d2a9c090ebf8f15c475088632d0e20fe",
 "splash/img/dark-1x.png": "fa344e3ded43352d685aad16bcb79880",
 "splash/img/dark-2x.png": "cb550e94269b3a482e18527ee0f8f952",
